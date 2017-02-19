@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AtRemind</string>
+    <string name="action_settings">Settings</string>
+    <string name="at_remind">"@提醒</string>
+    <string name="at_remind_desc">"当有人＠你的时候会用声音提示你"</string>
+</resources>
